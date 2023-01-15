@@ -59,9 +59,10 @@
   transition: transform 200ms;
 }
 
-.card h2 {
-  font-weight: 600;
-  margin-bottom: 0.7rem;
+.h1 {
+  font-size: 80px;
+  text-transform: uppercase;
+  font-weight: 900;
 }
 
 .card p {
